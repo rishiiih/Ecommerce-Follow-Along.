@@ -39,7 +39,3 @@ In Milestone 2, we focused on setting up the basic structure for our e-commerce 
 - The repository is publicly accessible and includes the frontend and backend directories.
 - The Login Page is functional and styled as per the requirements.
 
-### How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/Ecommerce-Follow-Along.git
