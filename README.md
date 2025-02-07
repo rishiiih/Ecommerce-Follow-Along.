@@ -68,7 +68,7 @@ This milestone focused on setting up a solid backend infrastructure to support t
 
 ---
 
-Milestone 4: Creating User Model and Controller 🚀
+## Milestone 4: Creating User Model and Controller 🚀
 
 In Milestone 4, we expanded our backend by introducing User Models, Controllers, and File Uploads.
 
