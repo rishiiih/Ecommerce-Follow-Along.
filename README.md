@@ -155,3 +155,12 @@ Handled potential security vulnerabilities, such as brute-force attacks.
 Documented Milestone 7 progress in this README file.
 This milestone introduced the backend authentication process, enabling users to log in securely by verifying their credentials against stored, encrypted passwords. This is crucial for maintaining data security and user authentication in the application.
 
+## Milestone 8: Product Card Component and Homepage Layout 🚀
+
+✅ Frontend Product Card Component
+Designed and implemented a reusable Product Card component.
+Utilized props to dynamically render product details like name, image, and price.
+
+✅ Homepage Layout for Products
+Created a responsive homepage to display multiple Product Cards.
+Used Grid/Flexbox for optimal layout and user experience.
