@@ -185,6 +185,7 @@ This milestone focused on enabling product input, which is essential for expandi
 ✅ Product Schema Implementation
 Defined a Product Schema in Mongoose.
 Implemented validation for fields like name, price, and image URL.
+
 ✅ API Endpoint for Adding Products
 Created a POST endpoint to store product details in MongoDB.
 Ensured proper validation before saving the data.
