@@ -18,4 +18,4 @@ export default function Product({ name, image, description, price }) {
       </div>
     </div>
   );
-}
+}   
