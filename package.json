@@ -9,7 +9,7 @@
     "start": "node backend/server.js",
     "start:frontend": "npm start --prefix frontend"
   },
-  "author": "\"Shivansh\"",
+  "author": "\"Rishi\"",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.9",
